@@ -1,0 +1,15 @@
+Login page
+User Registration page (Admin)
+Main Menu/Dashboard page (customized by role)
+Item Management page (Add/Edit/Delete/View)
+Supplier Management page (Add/Edit/Delete/View)
+Daily Sales Entry page
+Create Purchase Requisition page
+Display/List Purchase Requisitions page
+Generate Purchase Order page (PM)
+List Purchase Orders page
+PO Approval page (FM)
+Stock Update page (IM)
+Inventory Reports page
+Finance Approval page
+Payment Processing page
